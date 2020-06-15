@@ -1,5 +1,10 @@
 # flink-connector-redis
 基于`Blink`的`Flink SQL Redis`连接器，支持`Redis`维表和结果表。
+
+[![HitCount](http://hits.dwyl.com/DinoZhang/DinoZhang/flink-connector-redis.svg)](http://hits.dwyl.com/DinoZhang/DinoZhang/flink-connector-redis)
+
+
+
 ## 安装
 ```shell
     mvn clean package -Pfast
